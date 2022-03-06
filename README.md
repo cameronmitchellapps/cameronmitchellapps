@@ -1,5 +1,5 @@
 
-### Hi there, I’m @cameronmitchellapps 👋
+### Hi there, I’m [Cameron Mitchell](https://github.com/cameronmitchellapps) 👋
 <div id="badges">
   <a href="https://www.linkedin.com/in/cameron-mitchell-20994a142/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
