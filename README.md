@@ -20,9 +20,9 @@
 
 Looking to get involved in open source projects and contribute back.
 
-### 📈 My GitHub Stats:
+<!-- ### 📈 My GitHub Stats:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cameronmitchellapps)](https://github.com/cameronmitchellapps/github-readme-stats)
-
+ -->
 <!---
 cameronmitchellapps/cameronmitchellapps is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
