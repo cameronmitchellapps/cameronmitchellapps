@@ -9,7 +9,7 @@
   </a>
 </div>
 
-#### Glad to see you! ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=cameronmitchellapps.visitor-badge) 
+<!-- #### Glad to see you! ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=cameronmitchellapps.visitor-badge)  -->
 
 ### Personal Info
 - 🇦🇺 Based in Australia
